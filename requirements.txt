@@ -1,0 +1,6 @@
+llama-index
+docx2txt
+pypdf
+openai
+IPython
+pandas
